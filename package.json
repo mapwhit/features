@@ -1,0 +1,31 @@
+{
+  "name": "@mapwhit/features",
+  "version": "0.0.0",
+  "description": "Manages features added to geojson sources predefined in map style.",
+  "author": {
+    "name": "Natalia",
+    "email": "melitele@furkot.com",
+    "url": "https://melitele.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapwhit/features.git"
+  },
+  "type": "module",
+  "exports": "./lib/features.js",
+  "license": "MIT",
+  "keywords": [
+    "map",
+    "geojson"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@biomejs/biome": "2.0.5"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "lib"
+  ]
+}
