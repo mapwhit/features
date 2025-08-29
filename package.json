@@ -1,6 +1,6 @@
 {
   "name": "@mapwhit/features",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Manages features added to geojson sources predefined in map style.",
   "author": {
     "name": "Natalia",
