@@ -1,4 +1,9 @@
 
+1.0.0 / 2026-01-11
+==================
+
+ * attempt to update map again when feature data is provided before map is ready
+
 0.0.3 / 2025-08-29
 ==================
 
