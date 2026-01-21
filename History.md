@@ -1,4 +1,9 @@
 
+1.1.0 / 2026-01-21
+==================
+
+ * use `updateData` method of GeoJSON source to handle updates
+
 1.0.0 / 2026-01-11
 ==================
 
